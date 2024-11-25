@@ -18,7 +18,7 @@ The **Roblox Trading Helper API** provides data for Roblox traders, including RA
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/roblox-trading-helper-api.git
-cd roblox-trading-helper-api
+cd roblox-trading-helper-api ```
 
 2. Install Dependencies
 Make sure you have Python 3.8 or later installed.
@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 3. Run the API Locally
 Start the FastAPI server using uvicorn:
-```bash uvicorn main:app --reload
+uvicorn main:app --reload
 The API will be available at http://127.0.0.1:8000.
