@@ -23,9 +23,13 @@ cd roblox-trading-helper-api
 
 2. Install Dependencies
 Make sure you have Python 3.8 or later installed.
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the API Locally
 Start the FastAPI server using uvicorn:
+```bash
 uvicorn main:app --reload
+```
 The API will be available at http://127.0.0.1:8000.
