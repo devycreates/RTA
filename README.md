@@ -99,6 +99,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ### 🌟 Show Your Support!
 If this project helps you, consider starring it on GitHub! ⭐
-```
-
-You can now copy the entire markdown block and use it directly as `README.md` in your project. Let me know if you need anything else! 🚀
