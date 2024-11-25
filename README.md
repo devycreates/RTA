@@ -33,3 +33,29 @@ Start the FastAPI server using uvicorn:
 uvicorn main:app --reload
 ```
 The API will be available at http://127.0.0.1:8000.
+
+📖 API Endpoints
+Root Endpoint
+
+    GET /
+    Returns a welcome message with usage instructions.
+
+Player Data
+
+    GET /player/{user_id}
+    Fetches data like RAP and inventory value for a Roblox player.
+
+Item Details
+
+    GET /items
+    Retrieves details for all trading items, including trends.
+
+Trade Ads
+
+    GET /trade_ads
+    Fetches recent trade advertisements.
+
+Activity Data
+
+    GET /activity
+    Displays platform-wide trading activity stats.
