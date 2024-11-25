@@ -542,7 +542,6 @@ Trade Ads
     Fetches recent trade advertisements.
 
 Activity Data
-
     GET /activity
     Displays platform-wide trading activity stats.
 
@@ -563,17 +562,5 @@ Set environment variables:
 This project is licensed under the MIT License. See LICENSE for details.
 
 
----
-
-### Next Steps
-1. **Create the Repository**:
-   - Follow the instructions provided in the `README.md` to set up your GitHub repository.
-
-2. **Push the Files**:
-   - Add and commit all files, then push them to GitHub.
-
-3. **Test the API**:
-   - Run `uvicorn main:app --reload` locally and test the endpoints in your browser or with tools like Postman.
-
-Let me know if you’d like me to refine or enhance any part! 🚀
+-
 
